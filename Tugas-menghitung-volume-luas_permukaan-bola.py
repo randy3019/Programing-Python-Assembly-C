@@ -1,6 +1,5 @@
 import math
-#### Tugas nya Azizah
-#### 02181031
+
 print ('\n Hello, what  is your name?')
 name = input()
 print('\n Hello,' ,name ,"Keep Smile and Learn Coding")
