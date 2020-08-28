@@ -15,5 +15,5 @@ matrix_invers = np.linalg.inv(matrix) ##Operasi_invers_Numpy
 print("invers dari matrix adalah:\n", matrix_invers)
 
 ##create by randy
-##Nim"02171030
+##Nim"0217***
 ##Math-ITK
