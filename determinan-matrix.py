@@ -13,5 +13,5 @@ Determinan = np.linalg.det(matrix)
 print("Determinan dari matrix adalah:",Determinan)
 
 ##create by randy
-##nim:02171030
+##nim:0217***
 #math-ITK
